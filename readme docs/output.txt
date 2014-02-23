@@ -1,0 +1,10 @@
+
+What would you like to do:
+1. Load the Database Data into the application
+2. Add a new Order File to the Database
+3. Retrieve (view) or Delete any Employee by PrimaryKey
+4. Retrieve (view) or Delete any Customer by PrimaryKey
+5. View all Employees
+6. View all Customers
+7. View all Orders
+
